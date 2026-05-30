@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseuncrypt",
+        "uuid": 13116375,
+        "checksum": "1bwgga"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
